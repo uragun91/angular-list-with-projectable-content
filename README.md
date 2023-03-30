@@ -1,3 +1,3 @@
 # angular-list-with-projectable-content
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-2kawid)
+In this repo I have implemented the list with ability to defined list row template
